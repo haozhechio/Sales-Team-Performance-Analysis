@@ -54,6 +54,6 @@ In order to evaluate manager performance, we focused on the following key metric
 - Cara Losch and Dustin Brinkmann need to focus on increasing their pipeline volume and value to ensure better future performance. Expanding lead generation efforts and improving client engagement strategies could help boost their overall success
 
 ## Dashboard
-The dashboard used for this project can be found in Tableau Public [here](https://public.tableau.com/views/SalesTeamPerformanceManagementDashboard/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). The dashboard visualizes key metrics such as total revenue, closed deals, and pipeline value, and allows users to filter the data by manager and deal stage.
+The dashboard used for this project can be found in Tableau Public [here](https://public.tableau.com/views/SalesTeamPerformanceManagementDashboard/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). The dashboard visualizes metrics of revenue, sales performance and pipeline and allows users to filter the data by manager, month, product and accounts' sector.
 
 ![Dashboard](https://github.com/user-attachments/assets/b8e2209b-7641-487b-a6fb-da2eebda6527)
