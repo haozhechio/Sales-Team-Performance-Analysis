@@ -10,7 +10,7 @@ The main objectives of this analysis is **to improve overall sales revenue and n
 ## Dataset Structure - ER Diagram
 The dataset consists of four tables, providing detailed information about the sales team, account information, products, and sales pipeline. The data was prepared with **Excel** and organised into relational tables, which allowed for in-depth analysis of team performance.
 
-<img src="https://github.com/user-attachments/assets/2f70b3be-712d-456c-abf9-1d5f3d60919e" alt="ERD" width="500"/>
+<img src="https://github.com/user-attachments/assets/c1890447-3409-4b5a-b690-9b7e39496381" alt="ERD" width="500"/>
 
 ## Insights Summary
 
